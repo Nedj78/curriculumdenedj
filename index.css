@@ -486,7 +486,7 @@
     }
 
     .fa-brands {
-        display: 15pt ;
+        display: 15pt!important ;
     }
 
     .slider {
