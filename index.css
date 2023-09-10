@@ -216,10 +216,6 @@
         block-size: 220px ;
     }
 
-    .contact:hover {
-        block-size: 50%;
-    }
-
     .element-line > span {
         font-style: italic ;
         font-size: 16pt ;
@@ -526,6 +522,10 @@
         block-size: 120px ;
         margin: 0 auto ;
         padding: 5px 0 0 10px ;
+    } 
+
+   .profil-img:hover .contact {
+        block-size: 50% ;
     } 
 
     .profil-img:not(:hover) {
