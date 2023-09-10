@@ -216,6 +216,10 @@
         block-size: 220px ;
     }
 
+    .contact:hover {
+        block-size: 50%;
+    }
+
     .element-line > span {
         font-style: italic ;
         font-size: 16pt ;
