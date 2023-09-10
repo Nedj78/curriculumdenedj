@@ -482,7 +482,7 @@
     }
 
     .fa-brands {
-        display: 15pt!important ;
+        display: none !important ;
     }
 
     .slider {
@@ -674,7 +674,7 @@
     }
 
     .fa-brands {
-        display: none ;
+        display: none !important;
     }
 
     .slider {
