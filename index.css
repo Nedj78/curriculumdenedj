@@ -102,7 +102,7 @@
     .slider {
         position: absolute ;
         cursor: pointer ;
-        inset-block-start: 0 ;
+        inset-block-start: -1px ;
         inset-inline-start: 2px ;
         inset-inline-end: 7px ;
         inset-block-end: 1px ;
