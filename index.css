@@ -524,10 +524,6 @@
         padding: 5px 0 0 10px ;
     } 
 
-   .profil-img:hover .contact {
-        block-size: 50% ;
-    } 
-
     .profil-img:not(:hover) {
         display: flex ;
         text-align: center ;
