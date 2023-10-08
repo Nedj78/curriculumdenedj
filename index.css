@@ -482,15 +482,15 @@
 
     * {
        box-sizing: border-box;
-        }
+    }
 
     html {
-            margin: 0 0;
-            padding: 0 0;
-            overflow-y: hidden ;
-            overflow-x: hidden ;
-           -webkit-font-smoothing: antialiased;
-        }
+      margin: 0 0;
+      padding: 0 0;
+      overflow-y: hidden ;
+      overflow-x: hidden ;
+     -webkit-font-smoothing: antialiased;
+    }
 
     i.fa-solid {
         display: none ;
@@ -588,7 +588,7 @@
     }
 
     .role-info {
-        line-height: 15pt ;
+        line-height: 30pt ;
     }
 
 
