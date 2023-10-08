@@ -480,9 +480,17 @@
 
 @media screen and (min-width: 270px) and (max-width: 417px) {
 
+    * {
+       box-sizing: border-box;
+        }
+
     html {
-        margin: 2px 0 0 2px ;
-    }
+            margin: 0 0;
+            padding: 0 0;
+            overflow-y: hidden ;
+            overflow-x: hidden ;
+           -webkit-font-smoothing: antialiased;
+        }
 
     i.fa-solid {
         display: none ;
