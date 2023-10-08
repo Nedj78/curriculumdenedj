@@ -426,14 +426,21 @@
 /** RESPONSIVE**/
 
 @media screen and (max-width: 270px) {
+
+    * {
+       box-sizing: border-box;
+        }
     
     .intro, .img, .career, .abilities-1, .abilities-2, .footer, .school, h1, #english, .side-project {
             display: none ;
         }
 
     html {
+            margin: 0 0;
+            padding: 0 0;
             overflow-y: hidden ;
             overflow-x: hidden ;
+           -webkit-font-smoothing: antialiased;
         }
 
     main {
@@ -448,7 +455,7 @@
 
     .fa-brands {
             display: none !important ;
-    }
+       }
 
     .slider {
             display: none ;
