@@ -6,10 +6,6 @@
         font-weight: bold ; 
     }
 
-    .dark-mode {
-        background-color: rgba(255, 236, 192, 0.388) ;
-    }
-
     .fa-solid {
         color: rgb(17, 20, 223) ;
         font-size: 20pt ;
@@ -213,7 +209,7 @@
     .contact {
         padding: 2px 2px 2px 2px ;
         line-height: 0.3cm ;
-        block-size: 220px;
+        block-size: 260px;
     }
 
     .element-line > span {
